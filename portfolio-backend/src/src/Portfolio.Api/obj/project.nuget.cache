@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTymNmaMtHg=",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\Projects\\Portfolio\\portfolio-backend\\src\\src\\Portfolio.Api\\Portfolio.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pjha\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\pjha\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
